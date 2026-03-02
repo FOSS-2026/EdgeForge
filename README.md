@@ -85,17 +85,4 @@ These tradeoffs keep EdgeForge lightweight and extensible.
 
 ---
 
-## 🤝 Contributing
 
-Contributions are welcome!
-
-You can help by:
-- Adding device profiles
-- Improving optimization logic
-- Testing on real hardware
-- Enhancing the UI/UX
-- Improving documentation
-
-Please open an issue or submit a pull request.
-
----
